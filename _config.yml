@@ -31,7 +31,7 @@ github_username:  madlemur
 theme: jekyll-theme-dinky
 plugins:
   - jekyll-feed
-repository: kvcummins.github.io
+repository: madlemur/kvcummins.github.io
 lsi: false
 safe: true
 source: 
