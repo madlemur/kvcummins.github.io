@@ -7,7 +7,7 @@ layout: default
 <ul style="list-style-type: none;">
   {% for post in site.posts %}
     <li>
-      <h2><a href="{{ post.url }}">{{ post.title }}</a> <span style="font-size: small;">{{ post.date }}</span></h2>
+      <h2><a href="{{ post.url }}">{{ post.title }}</a> <span style="font-size: small;">{{ post.date | date: %d %B %Y }}</span></h2>
       {{ post.excerpt }}
     </li>
   {% endfor %}

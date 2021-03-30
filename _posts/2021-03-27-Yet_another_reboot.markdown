@@ -1,6 +1,5 @@
 ---
 layout: default
-date: 2021-03-27 21:24:37 -0500
 title: "Yet another reboot..."
 categories: website update
 ---
