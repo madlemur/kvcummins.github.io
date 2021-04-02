@@ -1,7 +1,7 @@
 ---
 title: Looking at Skyclimbers
 date: 2021-04-02
-categories: hobby games
+categories: hobby games Skyclimbers
 ---
 I've been keeping an eye on the upcoming game, [Skyclimbers](https://www.skyclimbers.net/), as I backed it during its Kickstarter campaign. Despite the ostensibly foolish decision to back a multiplayer computer game via crowdfunding, I thought they had a solid concept and a significant amount of work already completed.
 
