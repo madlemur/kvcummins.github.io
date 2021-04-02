@@ -4,7 +4,7 @@ date: 2021-04-02
 categories: hobby games Skyclimbers
 ---
 I've been keeping an eye on the upcoming game, [Skyclimbers](https://www.skyclimbers.net/), as I backed it during its Kickstarter campaign. Despite the ostensibly foolish decision to back a multiplayer computer game via crowdfunding, I thought they had a solid concept and a significant amount of work already completed.
-
+<!--more-->
 There are a lot of comparisons to be made with existing games, and for good reasons. I'm hoping, well, expecting Skyclimbers to transcend those comparisons when it makes it to full release. I fear it will try to be too much for too many, and simply fail to be much more than a tech demo. But that could be me just projecting my own lack of discipline on completing projects onto others (see: this website).
 
 Skyclimbers will have beast taming elements, survival elements, base building, city building, kingdom management, PvP/PvE, and RPG elements. That's a lot of elements. Thankfully (and I'm listening to the lead dev right now ranting about overreaching), they are staying out of the MMO realm, _for now_. They will still have an online element, but it will be more akin to Minecraft or Valhiem, where there are just a few others on the server with you, not hundreds (or thousands).
