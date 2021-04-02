@@ -8,7 +8,7 @@ layout: default
   {% for post in site.posts %}
     <li>
       <h2><a href="{{ post.url }}">{{ post.title }}</a> <span style="font-size: small;">{{ post.date | date: "%d %B %Y" }}</span></h2>
-      {{ post.excerpt }}
+      {{ post.content | strip_html | truncatewords:75 }}
     </li>
   {% endfor %}
 </ul>
