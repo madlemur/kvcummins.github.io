@@ -2,6 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
+
 ul.nav li a {
 	margin: 0px; 
 	display: block; 
@@ -13,6 +14,7 @@ ul.social {
 	display: flex;
 	position: relative;
 	left: -0.6em;
+	padding: 0px;
 }
 
 ul.social li {
@@ -21,7 +23,8 @@ ul.social li {
 }
 
 img.logo {
-	width: 100%;
+	max-width: 100%;
+	height: auto;
 	padding: 0;
 	margin: 0;
 	border: none;

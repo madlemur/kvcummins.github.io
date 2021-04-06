@@ -8,19 +8,19 @@ Recently, [Paratope](https://www.paratope.co) has released some new screenshots 
 The images below are downsampled. If you are interested in seeing the full-resolution images, go to the [Skyclimbers Discord](https://discord.gg/3JSVatNVFV) server, or follow the [Skyclimbers Twitter](https://twitter.com/playskyclimbers) account.
 
 ### Savannah
-![Savannah 1](/assets/images/savannah_1_sm.png){:width="650px"}
+![Savannah 1](/assets/images/savannah_1_sm.png)
 
-![Savannah 2](/assets/images/savannah_2_sm.png){:width="650px"}
+![Savannah 2](/assets/images/savannah_2_sm.png)
 
-![Savannah 3](/assets/images/savannah_3_sm.png){:width="650px"}
+![Savannah 3](/assets/images/savannah_3_sm.png)
 
 ### Sky Forest Jungle
-![Sky Forest Jungle 1](/assets/images/Sky_Forest_Jungle_1_sm.png){:width="650px"}
+![Sky Forest Jungle 1](/assets/images/Sky_Forest_Jungle_1_sm.png)
 
-![Sky Forest Jungle 2](/assets/images/Sky_Forest_Jungle_2_sm.png){:width="650px"}
+![Sky Forest Jungle 2](/assets/images/Sky_Forest_Jungle_2_sm.png)
 
-![Sky Forest Jungle 3](/assets/images/Sky_Forest_Jungle_3_sm.png){:width="650px"}
+![Sky Forest Jungle 3](/assets/images/Sky_Forest_Jungle_3_sm.png)
 
-![Sky Forest Jungle 4](/assets/images/Sky_Forest_Jungle_4_sm.png){:width="650px"}
+![Sky Forest Jungle 4](/assets/images/Sky_Forest_Jungle_4_sm.png)
 
-![Sky Forest Jungle 5](/assets/images/Sky_Forest_Jungle_5_sm.png){:width="650px"}
+![Sky Forest Jungle 5](/assets/images/Sky_Forest_Jungle_5_sm.png)
